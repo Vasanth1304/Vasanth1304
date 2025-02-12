@@ -2,7 +2,7 @@
 
 ### A passionate Full Stack Developer  
 
-![Web Development Banner](https://imgur.com/816HZqg)  
+![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  
 
 - 🚀 I'm currently working on **Agri Based Hirements**  
 - 📂 All of my projects are available at [My Portfolio](https://github.com/Vasanth1304)  
