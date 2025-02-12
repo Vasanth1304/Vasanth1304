@@ -4,7 +4,7 @@
 
 ![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  
 
-- 🚀 I'm currently working on **Agri Based Hirements**  
+- 🚀 I'm currently working on **AR Based project**  
 - 📂 All of my projects are available at [My Portfolio](https://github.com/Vasanth1304)  
 - 📧 How to reach me: [vasanth.g029@gmail.com](mailto:vasanth.g029@gmail.com)  
 
