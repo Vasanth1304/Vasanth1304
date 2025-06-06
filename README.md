@@ -5,7 +5,7 @@
 ![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  
 
 - 🚀 I'm currently working on **AR Based project**  
-- 📂 All of my projects are available at [My Portfolio](https://github.com/Vasanth1304)  
+- 📂 All of my projects are available at [My Portfolio](https://vasanth-g-portfolio.lovable.app/)  
 - 📧 How to reach me: [vasanth.g029@gmail.com](mailto:vasanth.g029@gmail.com)  
 
 ---
